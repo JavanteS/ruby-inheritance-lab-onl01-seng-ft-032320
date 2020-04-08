@@ -4,4 +4,5 @@ class Teacher < User
 
   def teach(array)
     array.sample(n)
+  end
 end
